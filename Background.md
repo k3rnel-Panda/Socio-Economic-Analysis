@@ -11,7 +11,11 @@
 **Importing the necessary packages:**
 
 >import pandas as pd
+
 >import numpy as np
+
 >import seaborn as sns
+
 >import operator
+
 >from sklearn.preprocessing import StandardScaler
